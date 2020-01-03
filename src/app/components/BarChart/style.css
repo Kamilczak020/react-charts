@@ -1,0 +1,8 @@
+.chart {
+  width: 500px;
+  height: 500px;
+}
+
+.chart .bar {
+  fill: #b9910c;
+}
